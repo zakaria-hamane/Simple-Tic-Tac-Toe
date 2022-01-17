@@ -10,6 +10,7 @@ Ends the game when someone wins or there is a draw.
 
 ## Exemple
 
+'''
 ---------
 |       |
 |       |
@@ -64,3 +65,4 @@ Enter the coordinates: 3 2
 | X X X |
 ---------
 X wins
+'''
